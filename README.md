@@ -26,7 +26,7 @@ Below is a screenshot of the login page and admin dashboard:
 
 ### 🔐 Login Page
 
-![Login Page](images/login.png)
+![Login Page](images/login1.png)
 
 ### 📊 Admin Dashboard
 
